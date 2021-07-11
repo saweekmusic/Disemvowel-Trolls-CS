@@ -22,6 +22,6 @@ pattern --- String
 replacement --- String
 Строка замены.
 
-Ипользуем "(?i)" для игнормрования регистра.
+Используем "(?i)" для игнорирования регистра.
 
 #FUNDAMENTALS #STRINGS #REGULAR_EXPRESSIONS #DECLARATIVE_PROGRAMMING #ADVANCED_LANGUAGE_FEATURES
