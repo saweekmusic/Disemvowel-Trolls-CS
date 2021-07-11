@@ -1,0 +1,16 @@
+C:\Users\Church\Desktop\Disemvowel Trolls\bin\Debug\net5.0\Disemvowel Trolls.exe
+C:\Users\Church\Desktop\Disemvowel Trolls\bin\Debug\net5.0\Disemvowel Trolls.deps.json
+C:\Users\Church\Desktop\Disemvowel Trolls\bin\Debug\net5.0\Disemvowel Trolls.runtimeconfig.json
+C:\Users\Church\Desktop\Disemvowel Trolls\bin\Debug\net5.0\Disemvowel Trolls.runtimeconfig.dev.json
+C:\Users\Church\Desktop\Disemvowel Trolls\bin\Debug\net5.0\Disemvowel Trolls.dll
+C:\Users\Church\Desktop\Disemvowel Trolls\bin\Debug\net5.0\ref\Disemvowel Trolls.dll
+C:\Users\Church\Desktop\Disemvowel Trolls\bin\Debug\net5.0\Disemvowel Trolls.pdb
+C:\Users\Church\Desktop\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.csproj.AssemblyReference.cache
+C:\Users\Church\Desktop\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Church\Desktop\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.AssemblyInfoInputs.cache
+C:\Users\Church\Desktop\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.AssemblyInfo.cs
+C:\Users\Church\Desktop\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.csproj.CoreCompileInputs.cache
+C:\Users\Church\Desktop\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.dll
+C:\Users\Church\Desktop\Disemvowel Trolls\obj\Debug\net5.0\ref\Disemvowel Trolls.dll
+C:\Users\Church\Desktop\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.pdb
+C:\Users\Church\Desktop\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.genruntimeconfig.cache
