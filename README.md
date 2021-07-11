@@ -13,13 +13,17 @@ Note: for this kata y isn't considered a vowel.
 
 ### What we did?
 1. Делаем сопоставление через Regex.Replace(string input, string pattern, string replacement) <br/>
+```
 input --- String
+```
 Строка для поиска соответствия.
-
+```
 pattern --- String
+```
 Шаблон регулярного выражения для сопоставления.
-
+```
 replacement --- String
+```
 Строка замены.
 
 Используем "(?i)" для игнорирования регистра.
